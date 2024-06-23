@@ -1,4 +1,4 @@
-# Airbnb-catering
+# Serenity Nest Airbnb
 ## Introduction
 Serenity Nest is a comprehensive platform designed to transform the way people travel and experience the world. Our platform connects millions of hosts with travelers seeking unique accommodations, from charming apartments to stunning villas and everything in between. Serenity has got you covered if you wish to search for a place to stay while travelling all around the world.
 ## Features
