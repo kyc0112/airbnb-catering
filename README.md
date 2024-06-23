@@ -8,3 +8,6 @@ Serenity Nest is a comprehensive platform designed to transform the way people t
 - 24/7 customer service for any inquiries or information.
 - Rating and reviews for properties and hosts.
 - Responsive design for both website and mobile applications.
+## Links:
+### Website: https://fim302914.wixsite.com/air-bnb-2
+### Mobile Application: https://www.figma.com/proto/hzsCcheQhNv1JsssKx23lc/LDCW6123?node-id=239-1240&t=hkVDseiQvyxaU1Mp-9&starting-point-node-id=239%3A1086&show-proto-sidebar=1&scaling=scale-down&content-scaling=fixed
